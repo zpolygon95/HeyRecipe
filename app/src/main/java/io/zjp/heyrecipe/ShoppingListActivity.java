@@ -8,7 +8,8 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
 public class ShoppingListActivity extends AppCompatActivity {
-    String items[] = new String []{"Apple", "Orange", "Banana", "Grapes", "Pineapple"};
+    String items[] = new String [] {"Olive Oil", "Lean ground beef", "Dry Spaghetti", "Garlic", "Salt and Pepper", "Fresh Basil", "Jar four cheese marinar sauce",
+            "Canned petite diced tomatoes", "Warm Water", "Parmesan"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
