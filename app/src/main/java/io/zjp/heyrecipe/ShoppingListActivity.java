@@ -8,7 +8,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
 public class ShoppingListActivity extends AppCompatActivity {
-    String items[] = new String [] {"Olive Oil", "Lean ground beef", "Dry Spaghetti", "Garlic", "Salt and Pepper", "Fresh Basil", "Jar four cheese marinar sauce",
+    String items[] = new String [] {"Olive Oil", "Lean ground beef", "Dry Spaghetti", "Garlic", "Salt and Pepper", "Fresh Basil", "Jar four cheese marinara sauce",
             "Canned petite diced tomatoes", "Parmesan"};
 
     @Override
