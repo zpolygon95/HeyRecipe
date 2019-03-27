@@ -13,7 +13,7 @@ public class spaghetti extends AppCompatActivity {
     private Button button;
 
     String items[] = new String [] {"Olive Oil", "Lean ground beef", "Dry Spaghetti", "Garlic", "Salt and Pepper", "Fresh Basil", "Jar four cheese marinar sauce",
-    "Canned petite diced tomatoes", "Warm Water", "Parmesan"};
+    "Canned petite diced tomatoes", "Parmesan"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
